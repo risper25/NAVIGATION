@@ -14,26 +14,31 @@
 
 
 <h2>Setting up the environment:</h2>
-
-1.Download the environment from the following links
-   <p> • Linux: click here</p> 
-   <p> • Mac OSX: click here</p> 
-    <p>• Windows (32-bit): click here<p> 
-    <p>• Windows (64-bit): click here</p> 
+<ol style="list-style-type:square;">
+<li>Download the environment from the following links:
+ <ul style="list-style-type:square;">
+  <li> Linux: click here</li>
+  <li> Mac OSX: click here<</li>
+  <li>Windows (32-bit): click here</li>
+   <li>Windows (64-bit): click here</li>
+</ul> </li>
+   
 <p>N/B(For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.</p>
-<p>2.Install Anaconda where you will run the code on Jupiter notebook.</p>
+<li>Install Anaconda where you will run the code on Jupiter notebook.</li>
 
-<p>3.Installl the following python modules:<p>
-    • numpy
-    • PyTorch
-    • UnityMLagent
-    •  python 3.6
-      
-
+<li>Installl the following python modules:
+    <ul style="list-style-type:square;">
+    <li>numpy </li>
+     <li>PyTorch</li>
+      <li>UnityMLagent</li>
+     <li>python 3.6</li>
+      </li> </ul>
+</ol> 
 <h2>Instructions:</h2>
-1.Download or clone this repository.
-2.Follow the instructions in Navigation.ipynb to get started with training your own agent or to see an already trained agent.
-   how I implemented the algorithim.
+
+<p>1.Download or clone this repository.</p>
+<p>2.Follow the instructions in Navigation.ipynb to get started with training your own agent or to see an already trained agent.
+   how I implemented the algorithim.</p>
 
 
 
