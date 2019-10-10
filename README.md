@@ -11,6 +11,11 @@ The state space has a dimension of size 37 which includes the the agent's veloci
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
+
+
+
+
+
 Setting up the environment:
 1.Download the environment from the following links
     • Linux: click here 
@@ -26,7 +31,10 @@ N/B(For AWS) If you'd like to train the agent on AWS (and have not enabled a vir
     • UnityMLagent
     •  python 3.6
       
-
+      
+      
+      
+      
 Instructions:
 1.Download or clone this repository.
 2.Follow the instructions in Navigation.ipynb to get started with training your own agent or to see an already trained agent.
