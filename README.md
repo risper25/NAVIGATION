@@ -1,5 +1,5 @@
 <h1>BANANA NAVIGATION PROJECT</h1>      
-<img src="https://github.com/risper25/NAVIGATION/blob/master/navigation.gif " width="100" height="48" />
+<img src="https://github.com/risper25/NAVIGATION/blob/master/navigation.gif " width="400" height="350" />
 <h2>Introduction</h2>   
         
 <p>In this project I used DQN (which is a deep reinforcement learning algorithm) to train an agent(player) to navigate and collect bananas.</p>
@@ -17,10 +17,10 @@
 <ol style="list-style-type:square;">
 <li>Download the environment from the following links:
  <ul style="list-style-type:square;">
-  <li> Linux: click here</li>
-  <li> Mac OSX: click here<</li>
-  <li>Windows (32-bit): click here</li>
-   <li>Windows (64-bit): click here</li>
+  <li> Linux: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip">click here</a></li>
+  <li> Mac OSX:  <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip">click here</a></li>
+  <li>Windows (32-bit):  <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip">click here</li>
+   <li>Windows (64-bit):<a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip">click here</li>
 </ul> </li>
    
 <p>N/B(For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.</p>
@@ -37,8 +37,8 @@
 <h2>Instructions:</h2>
 
 <p>1.Download or clone this repository.</p>
-<p>2.Follow the instructions in Navigation.ipynb to get started with training your own agent or to see an already trained agent.
-   how I implemented the algorithim.</p>
+<p>2.Follow the instructions in Navigation.ipynb to get started with training your own agent.
+   You can also take a look at the file report.pdf to see how I implemented the algorithim.</p>
 
 
 
