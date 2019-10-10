@@ -1,5 +1,5 @@
 <h1>BANANA NAVIGATION PROJECT</h1>      
-<p><img src=" https://github.com/risper25/NAVIGATION/blob/master/navigation.gif " width="100" height="48" /></p>
+<img src="https://github.com/risper25/NAVIGATION/blob/master/navigation.gif " width="100" height="48" />
 <h2>Introduction</h2>   
         
 <p>In this project I used DQN (which is a deep reinforcement learning algorithm) to train an agent(player) to navigate and collect bananas.</p>
