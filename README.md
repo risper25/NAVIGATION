@@ -38,7 +38,7 @@
 
 <p>1.Download or clone this repository.</p>
 <p>2.Follow the instructions in Navigation.ipynb to get started with training your own agent.
-   You can also take a look at the file report.pdf to see how I implemented the algorithim.</p>
+   You can also take a look at the file report.pdf to see how I implemented the algorithim</p>
 
 
 
